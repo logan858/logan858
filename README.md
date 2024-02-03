@@ -1,6 +1,8 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0Nmg0NzFhNzRqczU1c2gwZWhjMDZ5dzY3OG9oOTM0ODdxeDlyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif](https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium)" width="200"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/logan-major/" target="_">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
 </div>
 <!--
 **logan858/logan858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
