@@ -3,11 +3,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logan858&theme=vue-dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=497)](https://git.io/streak-stats)
   </br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan858&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  <div>
-    <a href="https://www.linkedin.com/in/logan-major/" rel="noreferrer noopener">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+ 
   <div>
     <img src="https://komarev.com/ghpvc/?username=logan858&style=flat-square&color=blue" alt=""/>
   </div>
