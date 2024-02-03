@@ -1,24 +1,25 @@
+  ** WORK IN PROGRESS **
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logan858&theme=vue-dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=497)](https://git.io/streak-stats)
-  </br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan858&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" width="200" style="float: left" alt="cute cat getting some work done" />
+ <div style="float: right; margin-left: 20px;">
+    <h2>Bullet Points</h2>
+    <ul>
+      <li>Point 1</li>
+      <li>Point 2</li>
+      <li>Point 3</li>
+    </ul>
+  </div>
  
   <div>
-    <img src="https://komarev.com/ghpvc/?username=logan858&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=logan858&style=for-the-badge&color=grey&label=Fans" alt=""/>
   </div>
+  
 </div>
+    
+    
+  
+
+
+
 <!--
 **logan858/logan858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
