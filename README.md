@@ -1,5 +1,5 @@
 <div width="100%">
-  <img width="35%" align="left" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" alt="cute cat getting some work done" />
+  <img width="35%" align="left" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" title="Me, Working." alt="cute cat getting some work done" />
 
   <div>
     <ins style="font-size:16px">
