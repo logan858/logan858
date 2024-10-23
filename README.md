@@ -7,7 +7,7 @@
     </ins>
   </div>
   
-  ```This is where I would mention a fun fact about myself, or list all the technologies I've worked with. It makes sense, it's a great opportunity to use pretty icons on a github profile, we've all got a collection of them. ... well anyways, don't be a stranger, say hi.```    
+  ```This is where I would mention a fun fact about myself, or list all the technologies I've worked with. It makes sense, it's a great opportunity to use pretty icons on a github profile....  well anyways, don't be a stranger, say hi.```    
     
   <br />
   <img src="https://komarev.com/ghpvc/?username=logan858&style=for-the-badge&color=grey&label=Fans" alt=""/>  
